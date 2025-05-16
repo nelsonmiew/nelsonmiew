@@ -1,2 +1,3 @@
-<img class="logo" src="https://github.com/wearemiew/.github/raw/main/static/miew-banner.png" alt="Miew Banner"/>
+![Making t*ch happen.](https://github.com/wearemiew/.github/raw/main/static/miew-banner.png)
+
 [@wearemiew](https://github.com/wearemiew/)
