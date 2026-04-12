@@ -1,8 +1,5 @@
 ![Making t*ch happen.](https://github.com/wearemiew/.github/raw/main/static/miew-banner.png)
-
 [@wearemiew](https://github.com/wearemiew/)
-
-
 #### Technologies I Love
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?logo=javascript&logoColor=white" alt="JavaScript" />
@@ -14,4 +11,7 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Claude_Code-%23CC785C.svg?logo=anthropic&logoColor=white" alt="Claude Code" />
+    <img src="https://img.shields.io/badge/GitHub_Copilot-%23000000.svg?logo=github-copilot&logoColor=white" alt="GitHub Copilot" />
 </div>
+> Powered by Github Copilot and Claude Code
